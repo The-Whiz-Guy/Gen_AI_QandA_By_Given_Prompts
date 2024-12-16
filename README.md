@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Codebasics Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company  
 
@@ -69,3 +70,6 @@ streamlit run main.py
 - langchain_helper.py: This has all the langchain code
 - requirements.txt: A list of required Python packages for the project.
 - .env: Configuration file for storing your Google API key.
+=======
+# Gen_AI
+>>>>>>> 1f86c2eaab5053470fd7f2b67ff64b5f0f9255db
