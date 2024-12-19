@@ -1,0 +1,5 @@
+# perform this manually
+
+
+pip install google-api-core==2.24.0
+pip install grpcio-status==1.49.1
