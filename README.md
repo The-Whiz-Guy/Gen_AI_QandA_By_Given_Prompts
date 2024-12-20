@@ -65,6 +65,11 @@ streamlit run main.py
 - langchain_helper.py: This has all the langchain code
 - requirements.txt: A list of required Python packages for the project.
 - .env: Configuration file for storing your Google API key.
-=======
-# Gen_AI
->>>>>>> 1f86c2eaab5053470fd7f2b67ff64b5f0f9255db
+
+### Contributing
+
+Contributions are welcome! If you want to add more features or improve the code, feel free to fork this repository and submit a pull request.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
