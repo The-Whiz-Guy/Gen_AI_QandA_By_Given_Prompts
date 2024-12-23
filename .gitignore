@@ -1,6 +1,6 @@
-"__pycache__/" 
-"venv/" 
-".env" 
-".env" 
-"venv/" 
-"__pycache__/" 
+__pycache__/
+.venv/
+.env
+cache/
+faiss_index/
+venv
