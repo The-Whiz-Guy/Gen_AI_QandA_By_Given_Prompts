@@ -1,13 +1,12 @@
 import os
 import requests
-import google.generativeai as genai
+import google.generativeai as genai # type: ignore # type: ignore
 from dotenv import load_dotenv
-from langchain.vectorstores import FAISS
-from langchain.document_loaders.csv_loader import CSVLoader
-from langchain.embeddings import HuggingFaceInstructEmbeddings
-from langchain.prompts import PromptTemplate
-from langchain.chains import RetrievalQA
-
+from langchain.vectorstores import FAISS # type: ignore
+from langchain.document_loaders.csv_loader import CSVLoader # type: ignore
+from langchain.embeddings import HuggingFaceInstructEmbeddings # type: ignore
+from langchain.prompts import PromptTemplate # type: ignore
+from langchain.chains import RetrievalQA  # type: ignore
 # Load environment variables
 load_dotenv()  # Load API key from .env file
 
