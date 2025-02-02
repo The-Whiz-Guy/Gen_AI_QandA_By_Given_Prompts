@@ -1,0 +1,21 @@
+prompt,response
+What is Google Cloud Platform (GCP)?,"Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google, providing infrastructure, storage, AI/ML, and networking solutions."
+How does GCP compare to AWS and Azure?,"GCP competes with AWS and Azure by offering strong AI/ML capabilities, global-scale infrastructure, and cost-effective pricing."
+What are the main services offered by GCP?,"GCP provides services like Compute Engine, Kubernetes Engine, Cloud Storage, BigQuery, Cloud Functions, and AI/ML tools."
+Is there a free tier for Google Cloud?,Yes! Google Cloud offers a free tier with $300 in credits and a range of free services with usage limits.
+How do I get started with Google Cloud?,"To get started, create an account on Google Cloud Console, activate free credits, and explore services through the documentation."
+What pricing models does GCP use?,"GCP offers pay-as-you-go pricing, committed use contracts, and sustained use discounts to optimize costs."
+How secure is Google Cloud?,"Google Cloud prioritizes security with end-to-end encryption, IAM, DDoS protection, and compliance with industry standards."
+What compliance certifications does GCP have?,"GCP complies with GDPR, HIPAA, ISO 27001, SOC 2, and other industry-specific regulations to ensure data security."
+Can I migrate my existing applications to GCP?,Yes! GCP provides migration tools like Migrate for Compute Engine and Anthos for seamless workload migration.
+What is Google Kubernetes Engine (GKE)?,"Google Kubernetes Engine (GKE) is a managed Kubernetes service that automates deployment, scaling, and management of containerized applications."
+How does Google Cloud handle data backups and disaster recovery?,"GCP offers backup and disaster recovery through tools like Cloud Storage, Filestore, and Backup for GKE."
+What are the storage options available in GCP?,"Storage options in GCP include Cloud Storage (object storage), Filestore (file storage), and Persistent Disk (block storage)."
+"What is BigQuery, and how does it help with data analytics?","BigQuery is a fully managed, serverless data warehouse designed for fast SQL queries and scalable analytics."
+Does GCP support hybrid and multi-cloud deployments?,"Yes, GCP supports hybrid and multi-cloud solutions through Anthos, enabling workloads across cloud providers and on-premises."
+What machine learning and AI tools does GCP provide?,"Google Cloud AI offers tools like Vertex AI, AutoML, TensorFlow, and AI APIs for image, text, and speech processing."
+How can I monitor and manage costs in GCP?,"You can monitor and control costs using the Google Cloud Billing Console, Cost Management tools, and Budgets & Alerts."
+Does GCP provide customer support?,"Yes! GCP provides 24/7 customer support through different tiers, including free documentation, community forums, and enterprise support plans."
+What networking services are available on GCP?,"GCP offers networking solutions like Cloud Load Balancing, VPC, Cloud Interconnect, and Cloud CDN for optimal performance."
+How can I integrate GCP with my on-premises infrastructure?,"You can connect GCP to on-premises infrastructure using hybrid connectivity solutions like VPN, Cloud Interconnect, and Anthos."
+Where can I find GCP documentation and learning resources?,"GCP provides learning resources like Google Cloud Documentation, Qwiklabs, Coursera courses, and the Google Cloud YouTube channel."
